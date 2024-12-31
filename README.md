@@ -1,3 +1,3 @@
 # hello-world
-# mon peremier projet sur Github.
-# ce projet represente un outil pour les testes.  
+# mon premier projet sur Github.
+# ce projet représente un outil pour les testes.  

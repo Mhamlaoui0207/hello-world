@@ -1,2 +1,3 @@
 # hello-world
-Ce référentiel est destiné à la pratique du flux GitHub
+# mon peremier projet sur Github.
+# ce projet represente un outil pour les testes.  
